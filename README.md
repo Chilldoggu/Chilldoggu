@@ -1,10 +1,11 @@
-### Hi there 👋
-
+### WOOF 👋
+I'm Chilldog, currently a student. Right now learning python after having some experience with C. Started Github so I can store some of my own ideas in one place and look into old projects in retrospect later. You can reach me on discord by the name of: Chilldog#1886. Have a great day!
+:moyai::moyai::moyai::moyai::moyai:
 <!--
 **Chilldoggu/Chilldoggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:fish::fish::fish::fish::fish:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
