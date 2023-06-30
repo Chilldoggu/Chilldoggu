@@ -1,5 +1,5 @@
 Hi o/!
-I'm just learning. Started Github so I can store some of my own ideas in one place and look at them in retrospect in the future. You can reach me out on discord: `Chilldog#1886`.
+I'm just learning. Started Github so I can store some of my own ideas in one place and look at them in retrospect in the future. You can reach me out on discord: `chilldog`.
 _Have a great day!_
 <!--
 **Chilldoggu/Chilldoggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
